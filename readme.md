@@ -6,5 +6,5 @@
 ```bash
     mkdir plates
     cd plates
-    git clone  
+    git clone https://github.com/iffyspeak-chroma/plates.git
 ```
