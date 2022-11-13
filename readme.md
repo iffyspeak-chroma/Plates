@@ -8,3 +8,4 @@
     cd plates
     git clone https://github.com/iffyspeak-chroma/plates.git
 ```
+<p>And to build, open it up in your IDE and build using Maven.</p>
