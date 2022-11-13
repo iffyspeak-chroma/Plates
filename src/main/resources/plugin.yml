@@ -1,0 +1,7 @@
+name: Plates
+version: '${project.version}'
+main: com.iffyspeak.plates.PlatesMain
+api-version: 1.19
+load: STARTUP
+authors: [ iffyspeak, hmmAlyssiaa ]
+description: Add cool icons and textures to chat and other locations to spice up your server
